@@ -2,8 +2,11 @@ Rencana program AST
 -membuat landing page 
 *bulan desember2021
 -menambahkan faktur pajak
-   ^saham dari pajak
-   ^trading terkena pajak
+ ^ratio pajak
+ ^pajak internal dan external
+-Website penjualan online ast
+^form checkout rajaongkir
 -merancang website hrga
   ^membuat dengan laravel
 *bulan januari2022
+
