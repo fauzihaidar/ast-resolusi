@@ -1,6 +1,6 @@
 AST RESOLUSI
--Membuat project pa-form
 -membuat project approval
 -membuat website pajak
 -membuat website inventory
 -kolaborasi dengan tim
+-membuat project e-commerce
